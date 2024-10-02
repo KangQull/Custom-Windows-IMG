@@ -1,3 +1,5 @@
+<img src="https://github.com/KangQull/Custom-Windows-IMG/blob/main/logoss.jpg" lebar="300" />
+
 # Custom-Windows-IMG
 Cara membuat custome image Windows untuk di jadikan RDP.
 
