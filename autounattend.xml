@@ -78,8 +78,8 @@
       </UpgradeData>
       <UserData>
         <AcceptEula>true</AcceptEula>
-        <FullName>Docker</FullName>
-        <Organization>Windows for Docker</Organization>
+        <FullName>Admin</FullName>
+        <Organization>Windows 11 Virtual</Organization>
         <ProductKey>
           <Key>VK7JG-NPHTM-C97JM-9MPGT-3V66T</Key>
         </ProductKey>
@@ -128,12 +128,12 @@
     <component name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
       <ComputerName>*</ComputerName>
       <OEMInformation>
-        <Manufacturer>Dockur</Manufacturer>
-        <Model>Windows for Docker</Model>
+        <Manufacturer>Taufiqul</Manufacturer>
+        <Model>Windows Virtual</Model>
         <SupportHours>24/7</SupportHours>
         <SupportPhone />
-        <SupportProvider>Dockur</SupportProvider>
-        <SupportURL>https://github.com/dockur/windows/issues</SupportURL>
+        <SupportProvider>Taufiqul</SupportProvider>
+        <SupportURL>https://github.com/KangQull</SupportURL>
       </OEMInformation>
       <OEMName>Windows for Docker</OEMName>
     </component>
@@ -298,7 +298,7 @@
       <UserAccounts>
         <LocalAccounts>
           <LocalAccount wcm:action="add">
-            <Name>Docker</Name>
+            <Name>Admin</Name>
             <Group>Administrators</Group>
             <Password>
               <Value />
@@ -312,7 +312,7 @@
         </AdministratorPassword>
       </UserAccounts>
       <AutoLogon>
-        <Username>Docker</Username>
+        <Username>User</Username>
         <Enabled>true</Enabled>
         <LogonCount>65432</LogonCount>
         <Password>
@@ -336,8 +336,8 @@
         <SkipUserOOBE>true</SkipUserOOBE>
         <SkipMachineOOBE>true</SkipMachineOOBE>
       </OOBE>
-      <RegisteredOrganization>Dockur</RegisteredOrganization>
-      <RegisteredOwner>Windows for Docker</RegisteredOwner>
+      <RegisteredOrganization>Taufiqul</RegisteredOrganization>
+      <RegisteredOwner>Windows Virtual</RegisteredOwner>
       <FirstLogonCommands>
         <SynchronousCommand wcm:action="add">
           <Order>1</Order>
